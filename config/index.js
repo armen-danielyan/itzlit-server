@@ -9,9 +9,9 @@ module.exports = {
     ip: process.env.IP,
     port: process.env.PORT || 3400,
     mysql: {
-        host: 'localhost',
-        username: 'root',
-        password: '',
-        dbname: 'itzlit'
+        host: 'us-cdbr-iron-east-03.cleardb.net',
+        username: 'b595ca102d960a',
+        password: '75db5f39',
+        dbname: 'heroku_e42f2073c9a01fa'
     }
 };
